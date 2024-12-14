@@ -1,1 +1,5 @@
 print("manikanta")
+print("manikanta")
+print("manikanta")
+print("manikanta")
+print("manikanta")
